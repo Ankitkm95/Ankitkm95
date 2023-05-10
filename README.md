@@ -57,7 +57,7 @@
 <h3 align="left">Connect with me: </h3>
  
 <p align="left">
-<a href="https://codepen.io/ankitkm95" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/923214541290221569/dCMZxkwz_400x400.jpg" alt="@9802hemensan" height="30" width="40" /></a>
+<!-- <a href="https://codepen.io/ankitkm95" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/923214541290221569/dCMZxkwz_400x400.jpg" alt="@9802hemensan" height="30" width="40" /></a> -->
 
 <a href="https://www.linkedin.com/in/ankit-mishra-605b7923a/" target="blank">
 <img align="center" src="https://www.jobentry.in/wp-content/uploads/2021/02/WhatsApp-Image-2021-01-18-at-11.00.09-12-1024x1024.jpeg" alt="https://www.linkedin.com/in/hemensan-mahilange-4a9499242/" height="30" width="40" /></a>
