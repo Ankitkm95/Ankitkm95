@@ -63,7 +63,7 @@
 <img align="center" src="https://www.jobentry.in/wp-content/uploads/2021/02/WhatsApp-Image-2021-01-18-at-11.00.09-12-1024x1024.jpeg" alt="https://www.linkedin.com/in/hemensan-mahilange-4a9499242/" height="30" width="40" /></a>
 
 <a href="https://codesandbox.io/u/ankitmishra517" target="blank">
-<img align="center" src="https://img.stackshare.io/service/7434/Screen_20Shot_202017-08-11_20at_205.55.05_20AM.png" alt="hmahilange9802" height="30" width="40" /></a>
+<img align="center" src="https://img.stackshare.io/service/7434/Screen_20Shot_202017-08-11_20at_205.55.05_20AM.png" alt="ankitmishra517" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
